@@ -6,7 +6,6 @@ This bot is made for [Discord Hack Week 2019](https://blog.discordapp.com/discor
 ## Description
 Spam random fancams of TWICE's members depending on the which member mentioned by user
 ![sample](https://cdn.discordapp.com/attachments/465363995105296385/594369210516504808/unknown.png "sample")
-This bot was inspired by kpop stans on twitter who reply random tweet with fancams
 
 ## Running the bot
 In order to run this bot, a config json file that contains the bot's token is required
@@ -14,9 +13,9 @@ In order to run this bot, a config json file that contains the bot's token is re
 {
     "token":<insert_your_token_here">
 }
+Save as config.json in the folder
 
 ```
-Save as config.json in the folder
 
 
 ```
@@ -26,4 +25,5 @@ $ npm install
 # Run application
 $ node index.js
 ```
-
+## About
+This bot was inspired by kpop stans on twitter who reply random tweet with fancams
