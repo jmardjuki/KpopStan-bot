@@ -22,7 +22,8 @@ client.on('message', message => {
         console.log(member);
         if ( myMessage.includes(member) ) {
             reply = reply + "STAN " + member.toUpperCase() + "\n";
-            reply = reply + fancam_link[member][0];
+            randomNum = Math.floor(Math.random() * Math.floor(fancam_link[member].length));
+            reply = reply + fancam_link[member][randomNum];
             console.log(reply);
             return message.channel.send(reply);
         }
