@@ -19,12 +19,10 @@ client.on('message', message => {
     if (message.author.bot) return;
     
     for (let member in fancam_link) {
-        console.log(member);
         if ( myMessage.includes(member) ) {
             reply = reply + "STAN " + member.toUpperCase() + "\n";
             randomNum = Math.floor(Math.random() * Math.floor(fancam_link[member].length));
             reply = reply + fancam_link[member][randomNum];
-            console.log(reply);
             return message.channel.send(reply);
         }
        
