@@ -6,7 +6,7 @@ This bot was made for [Discord Hack Week 2019](https://blog.discordapp.com/disco
 
 ## Description
 Spam random fancams of TWICE's members depending on the which member mentioned by user
-![sample](https://cdn.discordapp.com/attachments/465363995105296385/594369210516504808/unknown.png "sample")
+![sample](https://cdn.discordapp.com/attachments/465363995105296385/595807470086258698/unknown.png "sample")
 
 ## Running the bot
 In order to run this bot, a config json file that contains the bot's token is required
