@@ -2,11 +2,11 @@
 
 Just like a typical kpop stan, this bot spams fancams
 
-This bot was made for [Discord Hack Week 2019](https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33)
+This bot won 1st Place on the category Sh*tpost on [Discord Hack Week 2019](https://medium.com/discord-engineering/discord-community-hack-week-category-winners-bd0364360f92)
 
 ## Description
 Spam random fancams of TWICE's members depending on the which member mentioned by user
-![sample](https://cdn.discordapp.com/attachments/756913112195661864/758035627802361934/unknown.png "sample")
+![sample](https://i.ibb.co/x7tP90Z/kpop-Stan-Bot.png "sample")
 
 ## Running the bot
 In order to run this bot, a config json file that contains the bot's token is required
